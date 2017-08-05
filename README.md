@@ -8,7 +8,7 @@ An ECMA-Script VM.
 Create Gugelhupf-Context
         ||
         `´
-  Add source code   --->   Parse AST
+  Add source code  --->    Parse AST
         ||                    ||
         `´                    `´
      Run loop      <---  Inject parsed AST
